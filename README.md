@@ -8,7 +8,7 @@ Module to wait according to certain conditions
  
 </ul>
  
-![Telnet](https://github.com/rocketbot-cl/Telnet/blob/master/example/wait.png) 
+![Telnet](https://github.com/rocketbot-cl/Telnet/blob/master/example/Wait.png) 
 
 
 <h2>License</h2>
