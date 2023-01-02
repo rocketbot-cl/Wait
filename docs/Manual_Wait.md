@@ -18,4 +18,4 @@ __Download__ and __install__ the content in 'modules' folder in Rocketbot path
 Wait until a certain time 
 |Parameters|Description|example|
 | --- | --- | --- |
-|Time  |Time to wait until. Example 18:00|18:00|
+|Time  |Time to wait until.|18:00|

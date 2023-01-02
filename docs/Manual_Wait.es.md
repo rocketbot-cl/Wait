@@ -18,4 +18,4 @@ __Descarga__ e __instala__ el contenido en la carpeta 'modules' en la ruta de Ro
 Espera hasta una hora determinada
 |Parámetros|Descripción|ejemplo|
 | --- | --- | --- |
-|Hora |Hora hasta la que esperar. Ejemplo 18:00|18:00|
+|Hora |Hora hasta la que esperar.|18:00|
